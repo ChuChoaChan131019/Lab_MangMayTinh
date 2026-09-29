@@ -1,0 +1,41 @@
+# Windows system files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor and IDE settings
+.vscode/
+.idea/
+*.code-workspace
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+*.orig
+*.swp
+*.swo
+*~
+~$*
+
+# Logs
+*.log
+
+# Cisco Packet Tracer temporary/autosave files
+*.autosave
+*.pka.bak
+*.pkt.bak
+
